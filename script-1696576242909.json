@@ -8,7 +8,7 @@
     "id": "Script_jc81z",
     "isSample": false,
     "lastModifiedBy": "Z8tAwN6gPfXnYmzR8IhSDUA9UGo2",
-    "modificationDate": 1696631536969,
+    "modificationDate": 1696632276793,
     "name": "script-1696576242909",
     "objectType": "rule",
     "pairs": [
@@ -21,7 +21,7 @@
             "id": "dfbf4",
             "loadTime": "afterPageLoad",
             "type": "code",
-            "value": "function SEARCH() {\r\nfunction searchstatica() {\r\nreturn \"http://google.com\"\r\n}\r\nconsole.warn(searchstatica())}\r\nfunction ipad() {\r\nfunction ipadstatica() {\r\nreturn \"http://appetize.com\"\r\n}\r\nconsole.warn(ipadstatica())}\r\nfunction credits() {\r\nfunction creditsstatica() {\r\nreturn \"Made by: requestly.io, edisonswebsite0033.\"\r\n}\r\nconsole.warn(creditsstatica())}"
+            "value": "function SEARCH() {\r\nfunction searchstatica() {\r\nreturn \"http://google.com\"\r\n}\r\nconsole.warn(searchstatica())}\r\nfunction ipad() {\r\nfunction ipadstatica() {\r\nreturn \"http://appetize.com\"\r\n}\r\nconsole.warn(ipadstatica())}\r\nfunction credits() {\r\nfunction creditsstatica() {\r\nreturn \"Made by: requestly.io, edisonswebsite0033.\"\r\n}\r\nconsole.warn(creditsstatica())}\r\nfunction nullstatica() {\r\nconsole.log(\"New Console Command is running.\")\r\n}\r\nnullstatica()"
           }
         ],
         "source": {
