@@ -1,0 +1,37 @@
+[
+  {
+    "createdBy": "Z8tAwN6gPfXnYmzR8IhSDUA9UGo2",
+    "creationDate": 1696576242901,
+    "currentOwner": "Z8tAwN6gPfXnYmzR8IhSDUA9UGo2",
+    "description": "",
+    "groupId": "",
+    "id": "Script_jc81z",
+    "isSample": false,
+    "lastModifiedBy": "Z8tAwN6gPfXnYmzR8IhSDUA9UGo2",
+    "modificationDate": 1696631536969,
+    "name": "script-1696576242909",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "id": "xm52w",
+        "scripts": [
+          {
+            "codeType": "js",
+            "fileName": "",
+            "id": "dfbf4",
+            "loadTime": "afterPageLoad",
+            "type": "code",
+            "value": "function SEARCH() {\r\nfunction searchstatica() {\r\nreturn \"http://google.com\"\r\n}\r\nconsole.warn(searchstatica())}\r\nfunction ipad() {\r\nfunction ipadstatica() {\r\nreturn \"http://appetize.com\"\r\n}\r\nconsole.warn(ipadstatica())}\r\nfunction credits() {\r\nfunction creditsstatica() {\r\nreturn \"Made by: requestly.io, edisonswebsite0033.\"\r\n}\r\nconsole.warn(creditsstatica())}"
+          }
+        ],
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": "google.com"
+        }
+      }
+    ],
+    "ruleType": "Script",
+    "status": "Active"
+  }
+]
