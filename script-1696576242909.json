@@ -21,7 +21,7 @@
             "id": "dfbf4",
             "loadTime": "afterPageLoad",
             "type": "code",
-            "value": "function SEARCH() {\r\nfunction searchstatica() {\r\nreturn \"http://google.com\"\r\n}\r\nconsole.warn(searchstatica())}\r\nfunction ipad() {\r\nfunction ipadstatica() {\r\nreturn \"http://appetize.com\"\r\n}\r\nconsole.warn(ipadstatica())}\r\nfunction credits() {\r\nfunction creditsstatica() {\r\nreturn \"Made by: requestly.io, edisonswebsite0033.\"\r\n}\r\nconsole.warn(creditsstatica())}\r\nfunction nullstatica() {\r\nconsole.log(\"New Console Command is running.\")\r\n}\r\nnullstatica()"
+            "value": "function SEARCH() {\r\nfunction searchstatica() {\r\nreturn \"http://google.com\"\r\n}\r\nconsole.warn(searchstatica())}\r\nfunction ipad() {\r\nfunction ipadstatica() {\r\nreturn \"http://appetize.com\"\r\n}\r\nconsole.warn(ipadstatica())}\r\nfunction credits() {\r\nfunction creditsstatica() {\r\nreturn \"Made by: requestly.io, edisonswebsite0033.\"\r\n}\r\nconsole.warn(creditsstatica())}\r\nfunction nullstatica() {\r\nconsole.log(\"New Console Command is running.\!!")\r\n}\r\nnullstatica()"
           }
         ],
         "source": {
